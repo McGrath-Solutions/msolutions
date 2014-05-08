@@ -1,6 +1,6 @@
 <h1>Subscribe to Our Email Lists</h1>
 
-<p><a href="http://list.mcgrathsolutions.org/lists/?p=subscribe">Subscribe to Email Lists</a></p>
+<p><a href="http://list.mcgrathsolutions.org/?p=subscribe">Subscribe to Email Lists</a></p>
 
 <p>Our email lists are powered by PHP List. We have three email lists as follows.</p>
 
@@ -15,7 +15,7 @@
 <p>Manage email list settings using the following links.</p>
 
 <ul>
-    <li><a href="http://list.mcgrathsolutions.org/lists/?p=unsubscribe">Unsubscribe from Email Lists</a></li>
-    <li><a href="http://list.mcgrathsolutions.org/lists/?p=preferences">Change Email List Preferences</a></li>
+    <li><a href="http://list.mcgrathsolutions.org/?p=unsubscribe">Unsubscribe from Email Lists</a></li>
+    <li><a href="http://list.mcgrathsolutions.org/?p=preferences">Change Email List Preferences</a></li>
 </ul>
 
