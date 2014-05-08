@@ -1,0 +1,154 @@
+.yui3-menu {
+   font-size: 1em;
+}
+
+.yui3-menu .yui3-menu {
+    font-size: 1em;
+    line-height: 1.5em;
+    *line-height: 1.45em; /* For IE */
+}
+
+.yui3-menu-horizontal {
+    line-height: 2em;
+    *line-height: 1.9em; /* For IE */
+}
+
+.yui3-menu-content .yui3-menu-label{
+    background-color: #FFD24D;
+    color: #000;
+}
+
+.yui3-menu-content .yui3-menuitem{
+    background-color: #FFD24D;
+    color: #000;
+}
+
+.yui3-menu a {
+    color: #000;
+}
+
+.yui3-menu a:hover, 
+.yui3-menu a:focus {
+    text-decoration: underline;
+    background-color: #0a3a00;
+    color: #fff;
+    font-weight: bolder;
+}
+
+.yui3-menu-horizontal .yui3-menu-content {
+	border: none;
+}
+
+.yui3-menu .yui3-menu .yui3-menu-content {
+    border: 1px #000000 solid;
+    padding:0;
+    background-color: #fff;
+    color: #000;
+    font-weight: bolder;
+}
+
+.yui3-menu-horizontal ul {
+
+	padding: 0;
+	margin: 0;
+	border: 0;
+
+}
+
+.yui3-menu .yui3-menu ul {
+
+	margin-top: 3px;
+	padding-top: 3px;
+    border-top: none;
+
+}
+
+.yui3-menu ul.first-of-type {
+
+    border: 0;
+	margin: 0;
+	padding: 0;    
+
+}
+
+.yui3-menu-horizontal .yui3-menu-label,
+.yui3-menu-horizontal .yui3-menuitem-content {
+
+    padding: 3px 10px 0 10px;;
+    
+    margin-right: 10px;
+    margin-left: 10px;
+	/*border: solid 1px #fff;
+	border-width: 1px 1px 0 1px;*/
+        border: none;
+	font-weight: bolder;
+	float: left;
+    width: auto;
+	_display: inline;	/* Fixes IE margin doubling bug in IE 6 (Standards Mode and Quirks Mode) 
+						and IE 7 (Quirks Mode only) */
+
+}
+
+.yui3-menu .yui3-menu .yui3-menu-label,
+.yui3-menu .yui3-menu .yui3-menuitem-content {
+
+    padding: 10px;
+
+	/*
+		Necessary specify values for border, margin, float, display, and font-weight to override 
+		values specified in the preceeding selectors.
+	*/
+
+	margin: 0;
+	border: 0;
+	font-weight: normal;	
+	float: none;
+	_display: block;
+
+}
+
+.yui3-menu-horizontal .yui3-menu-label a {
+
+	float: left;
+	width: auto;
+	padding: 0 10px 0 10px;
+
+}
+
+.yui3-menu-horizontal .yui3-menu-label-active,
+.yui3-menu-horizontal .yui3-menu-label-menuvisible {
+
+    border: none;
+padding: 0;
+
+}
+
+.yui3-menu-horizontal .yui3-menu-label .yui3-menu-toggle {
+	
+	border-left: none;
+	padding:0;	/* Hide the text inside the menu toggle with top padding. */
+	width: 0;
+	height: 0;
+    margin: 0;
+	overflow: hidden;
+    background: none;
+
+}
+
+.yui3-menu-horizontal .yui3-menu-label .yui3-menu-toggle:hover,
+.yui3-menu-horizontal .yui3-menu-label .yui3-menu-toggle:focus {
+
+    background-position: 2px -15px;
+    border: #fff;
+font-weight: bolder;
+}
+
+.yui3-menu-horizontal .yui3-menu-label-menuvisible .yui3-menu-toggle,
+.yui3-menu-horizontal .yui3-menu-label-menuvisible .yui3-menu-toggle:hover,
+.yui3-menu-horizontal .yui3-menu-label-menuvisible .yui3-menu-toggle:focus {
+
+    background-position: 2px -30px;
+    border: #fff;
+    font-weight: bolder;
+
+}
