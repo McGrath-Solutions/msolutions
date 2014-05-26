@@ -7,40 +7,40 @@
                 <li>
                     <div id="slide1">
                         <div id="slide1_box">
-                            <div id="slide1_text"><h1>Remote Work Experience</h1>
-                            <p>Are you a person with a disability looking to gain remote work experience? McGrath Solutions provides internships to individuals with disabilities.</p>
+                            <div id="slide1_text"><h1>Help Desk</h1>
+                            <p>Let McGrath Solutions be your solution. Submit a help desk ticket today!</p>
                             </div>
-                            <div id="slide1_button"><a href="<?= base_url('associates-and-volunteers/open-positions.html') ?>"><?= image_asset('unslider/open-positions-inactive.png', '', array('alt'=>'View Open Positions')) ?></a></div>
+                            <div id="slide1_button"><a href="http://helpdesk.mcgrathsolutions.org">Submit Support Ticket</a></div>
                         </div>
                     </div>
                 </li>
                 <li>
                     <div id="slide2">
                         <div id="slide2_box">
-                            <div id="slide2_text"><h1>Submit Your Resume</h1>
-                            <p>Do not see any open positions that interest you? We are always taking resumes. Submit yours today!</p>
+                            <div id="slide2_text"><h1>Remote Work Experience</h1>
+                            <p>Are you a person with a disability looking to gain remote work experience? McGrath Solutions provides internships to individuals with disabilities.</p>
                             </div>
-                            <div id="slide2_button"><a href="<?= base_url('associates-and-volunteers/submit-resume.html') ?>"><?= image_asset('unslider/submit-resume-inactive.png', '', array('alt'=>'Submit Resume')) ?></a></div>
+                            <div id="slide2_button"><a href="<?= base_url('associates-and-volunteers/open-positions.html') ?>"><?= image_asset('unslider/open-positions-inactive.png', '', array('alt'=>'View Open Positions')) ?></a></div>
                         </div>
                     </div>
                 </li>
                 <li>
                     <div id="slide3">
                         <div id="slide3_box">
-                            <div id="slide3_text"><h1>Information Technology Services</h1>
-                            <p>Are you a nonprofit or small business looking for affordable information technology solutions? We provide everything from web design to technical support to consulting.</p>
+                            <div id="slide3_text"><h1>Submit Your Resume</h1>
+                            <p>Do not see any open positions that interest you? We are always taking resumes. Submit yours today!</p>
                             </div>
-                            <div id="slide3_button"><a href="<?= base_url('it-services/request-information-technology-services.html') ?>"><?= image_asset('unslider/services-inactive.png', '', array('alt'=>'Apply for Services')) ?></a></div>
+                            <div id="slide3_button"><a href="<?= base_url('associates-and-volunteers/submit-resume.html') ?>"><?= image_asset('unslider/submit-resume-inactive.png', '', array('alt'=>'Submit Resume')) ?></a></div>
                         </div>
                     </div>
                 </li>
                 <li>
                     <div id="slide4">
                         <div id="slide4_box">
-                            <div id="slide4_text"><h1>Research and Development</h1>
-                            <p>Part of the McGrath Solutions mission is to research and develop products to better the lives of those individuals with disabilities.</p>
+                            <div id="slide4_text"><h1>Information Technology Services</h1>
+                            <p>Are you a nonprofit or small business looking for affordable information technology solutions? We provide everything from web design to technical support to consulting.</p>
                             </div>
-                            <div id="slide4_button"><a href="<?= base_url('research-and-development.html') ?>"><?= image_asset('unslider/randd-inactive.png', '', array('alt'=>'Learn About R and D')) ?></a></div>
+                            <div id="slide4_button"><a href="<?= base_url('it-services/request-information-technology-services.html') ?>"><?= image_asset('unslider/services-inactive.png', '', array('alt'=>'Apply for Services')) ?></a></div>
                         </div>
                     </div>
                 </li>

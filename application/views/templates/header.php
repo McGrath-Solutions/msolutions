@@ -127,6 +127,7 @@ YUI().use("node-menunav", function(Y) {
                <h1 class="element-invisible">Top Links</h1>
                <div id="top_links">
                    <ul>
+                       <li><a href="http://helpdesk.mcgrathsolutions.org">Help Desk</a></li>
                        <li><a href="<?= base_url('search.html') ?>">Search</a></li>
                        <li><a href="<?= base_url('accessibility.html') ?>">Accessibility</a></li>
                        <li><a href="<?= base_url('site-map.html') ?>">Site Map</a></li>

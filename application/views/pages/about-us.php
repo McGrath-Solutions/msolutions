@@ -2,7 +2,7 @@
 
 <div id="col1">
     
-    <p>McGrath Solutions was officially incorporated as a non-profit in the State of Tennessee in August 2013. We are currently applying for our 501(c)(3) status.</p>
+    <p>McGrath Solutions was officially incorporated as a non-profit in the State of Tennessee in August 2013. We are an IRS 501(c)(3) tax exempt organization.</p>
 
     <p>The founder, Mike McGrath, has been providing volunteer information technology services to nonprofit organizations since 2003 when he started making modifications to 
         the DateAble member database.</p>

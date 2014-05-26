@@ -30,4 +30,4 @@ Knoxville, TN 37922</p>
     <li>Computers/Laptops</li>
 </ul>
 
-<p>Thank you for your support!</p>
+<p>Thank you for your support! McGrath Solutions is a 501(c)(3) tax exempt organization. All donations are tax deductible.</p>
