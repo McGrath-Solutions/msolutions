@@ -14,19 +14,6 @@
 </div>
 
 <div class="staff_container">
-    <div class="staff_photo"><?= image_asset('about-us/associates/gatlin.jpg', '', array('alt'=>'')) ?></div>
-    <div class="staff_details">
-        <h2>Gatlin McPherson</h2>
-        <div class="staff_title">Software Engineer Associate</div>
-        <div class="staff_email"><a href="mailto:gmcpherson@mcgrathsolutions.org">gmcpherson@mcgrathsolutions.org</a></div>
-    </div>
-    <div class="clear"></div>
-    <div class="staff_bio">
-        This is Gatlin McPherson. In Spring 2012, he graduated with an Associate Degree in Media Technologies with a concentration in Web Technologies. He is interested in being on a web team as a graphic designer. He would like to become a Certified Internet Webmaster then become the CIW Web Design Specialist. He also would like to be a webmaster for a company. In October he was selected by the Knoxville Area Employment Consortium to receive the Rudy Sullivan Award for working at East Tennessee Public Broadcasting Services.  Gatlin resides in Knoxville, Tennessee. 
-    </div>
-</div>
-
-<div class="staff_container">
     <div class="staff_photo"><?= image_asset('about-us/associates/justin.jpg', '', array('alt'=>'')) ?></div>
     <div class="staff_details">
         <h2>Justin Le</h2>
@@ -50,19 +37,6 @@
     <div class="clear"></div>
     <div class="staff_bio">
         Chris is a student in the Family Science Department at the University of Maryland, College Park.  Chris graduated from A. R. Johnson Health Science and Engineering Magnet School in Augusta, Georgia prior to attending the University of Maryland.  He plans to work as a Family Therapist after he completes a graduate degree.  In March of 2013, he supported Easter Seals of East Georgia by meeting with state legislators with the CEO of Easter Seals to rally for funds for the Champions for Children's Program.  Chris has Cerebral Palsy and currently lives in Silver Spring, Maryland.
-    </div>
-</div>
-
-<div class="staff_container">
-    <div class="staff_photo"><?= image_asset('about-us/associates/jason.jpg', '', array('alt'=>'')) ?></div>
-    <div class="staff_details">
-        <h2>Jason Stansbury</h2>
-        <div class="staff_title">Software Engineer Associate</div>
-        <div class="staff_email"><a href="mailto:jstansbury@mcgrathsolutions.org">jstansbury@mcgrathsolutions.org</a></div>
-    </div>
-    <div class="clear"></div>
-    <div class="staff_bio">
-        Jason is technically-minded, repairing both desktop and laptop computers.  He not only installs the software to keep these machines humming, but also maintains updates, upgrades, and re-installs.  Software is not his only skill though as he pairs the hardware in making better working mechanism.  He does it with a wonderful personality and work ethic.  Jason volunteers his abilities with the local United Way & now also with McGrath Solutions.  Jason hails from Kingston, TN.
     </div>
 </div>
 
